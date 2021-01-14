@@ -2,12 +2,12 @@ Pod::Spec.new do |s|
   s.name                = "KTVHTTPCache"
   s.version             = "2.0.1"
   s.summary             = "A powerful media cache framework."
-  s.homepage            = "https://github.com/ChangbaDevs/KTVHTTPCache"
+  s.homepage            = "https://github.com/ryancw/KTVHTTPCache"
   s.license             = { :type => "MIT", :file => "LICENSE" }
   s.author              = { "Single" => "libobjc@gmail.com" }
   s.social_media_url    = "https://weibo.com/3118550737"
   s.platform            = :tvos, "9.0"
-  s.source              = { :git => "https://github.com/ChangbaDevs/KTVHTTPCache.git", :tag => "#{s.version}" }
+  s.source              = { :git => "https://github.com/ryancw/KTVHTTPCache.git", :tag => "#{s.version}" }
   s.source_files        = "KTVHTTPCache", "KTVHTTPCache/**/*.{h,m}"
   s.public_header_files =
                           "KTVHTTPCache/KTVHTTPCache.h",
