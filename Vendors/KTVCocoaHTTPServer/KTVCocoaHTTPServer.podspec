@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name                = "KTVCocoaHTTPServer"
-  s.version             = "1.0.0"
+  s.version             = "1.0.1"
   s.summary             = "CocoaHTTPServer for KTV."
   s.homepage            = "https://github.com/ChangbaDevs/KTVCocoaHTTPServer"
   s.license             = { :type => "MIT", :file => "LICENSE" }
