@@ -20,5 +20,5 @@ Pod::Spec.new do |s|
                           "KTVHTTPCache/Classes/KTVHCDataStorage/KTVHCDataCacheItemZone.h"
   s.frameworks          = "UIKit", "Foundation"
   s.requires_arc        = true
-  s.dependency 'KTVCocoaHTTPServer'
+  s.dependency 'KTVCocoaHTTPServer', '~> 1.0.1'
 end
